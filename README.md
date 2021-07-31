@@ -53,15 +53,7 @@ cd XinzBot
 npm install
 node main
 ```
-
-## For VPS
-```bash
-apt install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
-cd XinzBot
-npm install
-node main
-```
+*Note* : Use `apt` or `apt-get` if `pkg` not work
 
 ## Edit file
 - Change ownerNumber on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L2)
